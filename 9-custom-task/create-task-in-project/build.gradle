@@ -1,0 +1,5 @@
+task hello(type: omottec.HelloWorldTask)
+
+task hello1(type: omottec.HelloWorldTask) {
+	message = "I am a engineer"
+}
